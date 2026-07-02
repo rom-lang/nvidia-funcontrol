@@ -21,3 +21,5 @@ nvidia-funcontrol widget for KDE
 
 
 Автоматизацию управления не стал прикручивать, может плачевно закончиться )
+
+Видео работы https://www.reddit.com/r/ru_linux/s/6xHNpZVKPc
